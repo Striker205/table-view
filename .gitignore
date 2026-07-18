@@ -1,0 +1,28 @@
+# Java build output
+bin/
+out/
+target/
+build/
+*.class
+*.jar
+*.war
+
+# Windows package outputs
+*.exe
+*.msi
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Runtime / local data
+data.txt
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

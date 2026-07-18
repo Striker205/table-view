@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\jakub\Desktop\TableW\App.jar</jar>
+  <outfile>C:\Users\jakub\Desktop\TableW\TableW.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\jakub\Desktop\TableW\logo.ico</icon>
+  <classPath>
+    <mainClass>App</mainClass>
+  </classPath>
+  <jre>
+    <path>bin/jre</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+</launch4jConfig>
