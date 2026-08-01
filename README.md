@@ -2,7 +2,7 @@
 
 TableView is a desktop application built in Java Swing for tracking 1-year and 3-year product warranties.
 
-[Application visual](./TableView.png)
+![Application visual](./TableView.png)
 
 ## About the Project
 
